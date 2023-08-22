@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 env:
-  packageName: "com.vrchat.demo-template"
+  packageName: "com.bluwizard.locomotion"
 
 permissions:
   contents: write
